@@ -9,7 +9,7 @@ console.log(String(inteiro));
 
 //Contar quantos caracteres tem uma palavra e quantos digitos tem um numero 
 
-let word = 'sdfasdfa'
+let word = 'gods'
 console.log(word.length);
 let number = 1234
 console.log(String(number).length); 
@@ -31,7 +31,7 @@ let phrase = "i want to live the love"
 console.log(phrase.includes("love"));
 
 
-//Separe um texto que contem espaços, em um nobo array onde cada texto é uma posiçãp do array.
+//Separe um texto que contem espaços, em um novo array onde cada texto é uma posiçãp do array.
 //depois transforme o array em um text e onde eram spaces, coloque "_"
 
 let phrase = "i want to live love"

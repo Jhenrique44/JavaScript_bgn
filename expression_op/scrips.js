@@ -30,28 +30,36 @@ const person = {
 delete person.age
 console.log(person);
 
+*/
 //Operadores Aritimticos
 
 //multiplicacao
 console.log(3*5);
+
 //divisao
 console.log(4/2);
+
 //soma
 console.log(4+2);
+
 //substracao
 console.log(8-4);
+
 //resto de divisao
 console.log(9%2);
+
 //incremento
 let increment = 0
 increment++
 console.log(++increment);
+
 //decremento
 let decrement = 0
 console.log(--decrement);
+
 //exponencial **
 console.log(3 ** 3);
-*/
+
 
 //Grouping operator()
 let total = 2 + 3 * 5

@@ -8,11 +8,11 @@ function sayName() {
 
 //Arrow function 
 
-const senhorAmado = (name) => {
+const sir = (name) => {
     console.log(name)
 }
 name = 'jojo'
-senhorAmado(name)
+sir(name)
 
 //Callback function
 
@@ -41,7 +41,7 @@ function Person(name) {
     }
 }
 const jo = new Person("jojo")
-const asno = new Person("aslfred")
+const ser = new Person("Sergi")
 console.log(jo.walk())
-console.log(asno.walk())
+console.log(ser.walk())
 
